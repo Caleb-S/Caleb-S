@@ -10,7 +10,7 @@
   <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="100px">
   </div>
-  
+  <hr>
   <h3 align="left">Languages</h2><div> 
   <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript">
@@ -34,8 +34,14 @@
   </div>
   
   <br>
+  
   <br>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caleb-s)](https://github.com/anuraghazra/github-readme-stats)
+  <div align="left">
+  <a href="https://github.com/caleb-s">
+  <img src="https://github-readme-stats.vercel.app/api?username=caleb-s&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
+  </a>
+  </div>
+
   
   
 
