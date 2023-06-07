@@ -18,7 +18,8 @@
   <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3">
   <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react">
-  <img src="https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwind">
+  <img src="https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwind-css">
+    <img src="https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazonaws">
   </div>
   
   <h3 align="left">OS</h2>
