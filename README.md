@@ -37,7 +37,7 @@
   
   <br>
   <div align="left">
-  <a href="https://github.com/caleb-s">
+  <a href="https://github.com/Caleb-S?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api?username=caleb-s&show_icons=true&theme=transparent">
   </a>
   </div>
