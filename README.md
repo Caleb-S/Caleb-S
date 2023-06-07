@@ -1,10 +1,10 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="left">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
-<p align="center">
+<p align="left">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Caleb.<br>
-        Currently building up my Github profile, will be uploading past projects.<br>
+        I'm Caleb,<br>
+        Currently building my Github profile, plan to upload a lot of my past projects in the upcoming months.<br>
     </i><br>
   
   <h3 align="left">Languages</h2><div> 
