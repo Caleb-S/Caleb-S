@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Caleb.<br>
-        Currently learning the React Native framework for a future mobile build.<br>
+        Currently building up my Github profile, will be uploading past projects.<br>
     </i><br>
   
   <h3 align="left">Languages</h2><div> 
