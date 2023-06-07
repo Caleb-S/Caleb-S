@@ -19,7 +19,8 @@
   <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3">
   <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react">
   <img src="https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwind-css">
-    <img src="https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazonaws">
+  <img src="https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazonaws">
+  <img src="https://img.shields.io/badge/webflow-black?style=for-the-badge&logo=webflow">
   </div>
   
   <h3 align="left">OS</h2>
