@@ -18,9 +18,14 @@
   <a href="https://github.com/Caleb-S?tab=repositories&q=&type=&language=javascript&sort="> 
       <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript"> 
   </a>
+	<a href="https://github.com/Caleb-S?tab=repositories&q=&type=&language=typescript&sort="> 
+  <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript">
+    </a>
     <a href="https://github.com/Caleb-S?tab=repositories&q=&type=&language=java&sort="> 
   <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk">
     </a>
+	
+
   </div>
   
   <h3 align="left">Technologies & Frameworks</h2>
@@ -31,11 +36,11 @@
 	 <a href="https://github.com/Caleb-S?tab=repositories&q=&type=&language=css&sort="> 
   <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3">
 	</a>
-	 <a href="https://github.com/Caleb-S?tab=repositories&q=react&type=&language=&sort="> 
-  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react">
+	<a href="https://github.com/Caleb-S?tab=repositories&q=tailwind&type=&language=&sort="> 
+	<img src="https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwind-css">
 	</a>
-	 <a href="https://github.com/Caleb-S?tab=repositories&q=&type=&language=tailwind&sort="> 
-  <img src="https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwind-css">
+	<a href="https://github.com/Caleb-S?tab=repositories&q=react&type=&language=&sort="> 
+  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react">
 	</a>
 	<a href="https://github.com/Caleb-S?tab=repositories&q=aws&type=&language=&sort=">
   <img src="https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazonaws">
