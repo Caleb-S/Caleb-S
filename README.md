@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Caleb,<br>
-        Currently building my Github profile, plan to upload a lot of my past projects in the upcoming months.<br>
+
     </i><br>
     
   <div align="center">
