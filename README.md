@@ -60,7 +60,7 @@
 
 <br>
 <div align="center">
-  <img  src="https://profile-counter.glitch.me/{caleb-s}/count.svg" alt="caleb-s :: Visitor's Count" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=caleb-s&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </div>
 
 <br>
