@@ -6,7 +6,7 @@
     <td align="center" width=500>
       <p>
         <b>Welcome to my GitHub page!</b><br><br>
-        <i>I'm Caleb – a passionate programmer, always exploring the depths of code and design.</i><br><br>
+        <i>I'm Caleb – I use VIM.</i><br><br>
       </p>
     </td>
     <td align="center" width=200>
@@ -59,6 +59,6 @@
 
 
 <p align="center">
-    <i>"Keep pushing the limits of code, one line at a time!"</i>
+    <i>Use VIM</i>
 </p>
 
