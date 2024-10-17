@@ -1,23 +1,23 @@
 <table align="center">
   <tr>
-    <td align="center" >
+    <td align="center" width=200>
       <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="100px" alt="Animated image">
     </td>
-    <td align="center">
+    <td align="center" width=500>
       <p>
         <b>Welcome to my GitHub page!</b><br><br>
         <i>I'm Caleb – a passionate programmer, always exploring the depths of code and design.</i><br><br>
       </p>
     </td>
-    <td align="center">
+    <td align="center" width=200>
       <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="100px" alt="Animated image">
     </td>
   </tr>
 </table>
 
 <table align="center">
-  <tr align="left">
-    <td align="left">
+  <tr align="left" >
+    <td align="left" width=900>
 <h3 align="left">💻 Languages</h3>
 <div align="left"> 
     <a href="https://github.com/Caleb-S?tab=repositories&q=&type=&language=python&sort=">
