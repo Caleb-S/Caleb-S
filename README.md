@@ -59,8 +59,11 @@
 </table>
 
 <br>
+<div align="center">
+  <img  src="https://profile-counter.glitch.me/{caleb-s}/count.svg" alt="caleb-s :: Visitor's Count" />
+</div>
 
-
+<br>
 <p align="center">
     <b>I use VIM btw</b>
 </p>
