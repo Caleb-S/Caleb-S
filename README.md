@@ -5,8 +5,8 @@
     </td>
     <td align="center" width=500>
       <p>
-        <b>Welcome to my GitHub page!</b><br><br>
-        <i>I'm Caleb – I use VIM.</i><br><br>
+        <b>I'm Caleb</b><br><br>
+        <i>I use VIM.</i><br>
       </p>
     </td>
     <td align="center" width=200>
@@ -59,6 +59,6 @@
 
 
 <p align="center">
-    <i>Use VIM</i>
+    <i>"Developers, developers, developers, developers. - Steve Ballmer"</i>
 </p>
 
