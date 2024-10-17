@@ -16,8 +16,8 @@
 </table>
 
 
-<h3 align="center">💻 Languages</h3>
-<div align="center"> 
+<h3 align="left">💻 Languages</h3>
+<div align="left"> 
     <a href="https://github.com/Caleb-S?tab=repositories&q=&type=&language=python&sort=">
         <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python">
     </a>
@@ -32,8 +32,8 @@
     </a>
 </div>
 
-<h3 align="center">🛠️ Technologies & Frameworks</h3>
-<div align="center">
+<h3 align="left">🛠️ Technologies & Frameworks</h3>
+<div align="left">
     <a href="https://github.com/Caleb-S?tab=repositories&q=&type=&language=html&sort=">
         <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5">
     </a>
@@ -54,8 +54,8 @@
     </a>
 </div>
 
-<h3 align="center">🖥️ Operating Systems</h3>
-<div align="center">
+<h3 align="left">🖥️ Operating Systems</h3>
+<div align="left">
     <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows">
     <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux">
 </div>
