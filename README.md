@@ -54,14 +54,17 @@
     <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows">
     <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux">
 </div>
+<br>
+<div align="left">
+<img width=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=caleb-s&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</div>
 </td>
 </tr>
+
 </table>
 
 <br>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=caleb-s&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-</div>
+
 
 <br>
 <p align="center">
