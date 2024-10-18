@@ -68,6 +68,7 @@
 
 <br>
 <p align="center">
-    <b>I use VIM btw</b>
+    <i>'sprint then you rest you reassess and then you try again what you end up doing is you end up building a marathon' <br>- 
+Naval Ravikant</i>
 </p>
 
